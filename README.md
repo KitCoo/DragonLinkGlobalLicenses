@@ -48,7 +48,7 @@ You are free to build upon these concepts provided you:
 ## 📬 Contact
 
 To collaborate, contribute, or request formal endorsement:
-**Email:** `info@echelondynamicstechnologies.com`
+**Email:** `jmgreatman@gmail.com`
 **GitHub:** [@KitCoo](https://github.com/KitCoo)
 
 ---
